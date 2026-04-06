@@ -28,6 +28,18 @@ const Skills = () => {
       ]
     },
     {
+      title: 'AI & Machine Learning',
+      skills: [
+        { name: 'Large Language Models (LLM)', level: 90 },
+        { name: 'Retrieval-Augmented Generation (RAG)', level: 85 },
+        { name: 'Vector Databases', level: 80 },
+        { name: 'Embeddings', level: 85 },
+        { name: 'Generative AI', level: 88 },
+        { name: 'Python (AI/ML)', level: 75 },
+        { name: 'TensorFlow/PyTorch', level: 70 },
+      ]
+    },
+    {
       title: 'Tools & Technologies',
       skills: [
         { name: 'Git', level: 85 },

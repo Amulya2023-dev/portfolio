@@ -25,6 +25,11 @@ const About = () => {
               business websites to large-scale enterprise applications, always focusing on
               writing clean, maintainable code and following industry best practices.
             </p>
+            <p>
+              As a RAG Specialist, I excel in implementing Retrieval-Augmented Generation systems,
+              leveraging vector databases for efficient data retrieval, creating embeddings to capture
+              semantic meaning, and building end-to-end RAG pipelines for enhanced AI applications.
+            </p>
           </div>
         </div>
       </div>

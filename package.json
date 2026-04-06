@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Full Stack Developer Portfolio",
   "private": true,
-  "homepage": "https://Amulya2023-dev.github.io/portfolio",
+  "homepage": "https://amulya2023-dev.github.io/portfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^7.12.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {

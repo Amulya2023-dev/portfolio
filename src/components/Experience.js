@@ -7,11 +7,12 @@ const Experience = () => {
       period: 'October 2024 - May 2025',
       role: 'Lead Software Engineer',
       company: 'Collab Partnerz',
-      description: 'Leading development of enterprise-level web applications using React, Node.js, and cloud technologies. Mentoring junior developers and establishing coding standards.',
+      description: 'Leading development of enterprise-level web applications and AI-powered HR chatbots using React, Node.js, and cloud technologies. Mentoring junior developers and establishing coding standards.',
       achievements: [
         'Architected scalable microservices handling 1M+ requests/day',
         'Reduced application load time by 60% through optimization',
-        'Implemented CI/CD pipelines improving deployment efficiency'
+        'Implemented CI/CD pipelines improving deployment efficiency',
+        'Developed HR chatbot projects integrating LLM and RAG technologies for employee assistance'
       ]
     },
     {

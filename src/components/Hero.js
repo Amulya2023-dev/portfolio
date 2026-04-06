@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="hero-content">
         <div className="hero-text">
           <h1 className="hero-title">
-            Full Stack Developer
+          Full Stack Developer Senior AI Engineer GEN AI | LLM
           </h1>
           <p className="hero-subtitle">
             Crafting digital solutions with <span className="highlight">8+ years</span> of expertise
